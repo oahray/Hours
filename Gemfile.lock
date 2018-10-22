@@ -690,7 +690,7 @@ GEM
       haml (>= 3.1, < 5.0)
       railties (>= 4.0.1)
     hashtel (0.0.2)
-    high_voltage (2.2.0)
+    high_voltage (3.1.0)
     highline (1.7.8)
     holidays (1.2.0)
     http_accept_language (2.0.1)
